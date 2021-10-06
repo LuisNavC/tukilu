@@ -1,0 +1,20 @@
+
+/* declaracion*/
+/* selector*/
+.t1{
+    /*propiedad --> color*/ /* valor--> azul*/
+
+    color:                   blue;
+    background-color:        coral;
+
+
+}
+
+.t2{
+    /*propiedad --> color*/ /* valor--> azul*/
+
+    color:                   coral;
+    background-color:        blue;
+
+
+}
